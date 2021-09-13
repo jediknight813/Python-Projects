@@ -1,4 +1,4 @@
-python projects i'm working on to improve my skill
+some python projects i'm working on to improve my skill.
 
 
 
